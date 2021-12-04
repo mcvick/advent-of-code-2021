@@ -1,0 +1,4 @@
+name: advent-of-code-2021
+recipe: lamp
+config:
+  webroot: .
